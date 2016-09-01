@@ -20,4 +20,3 @@ print("\(person2.name)'s age is \(person.age)")
 
 person2.age = 32
 print("\(person2.name)'s age is \(person2.age)")
-
